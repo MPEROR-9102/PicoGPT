@@ -1,4 +1,4 @@
-# **Pico-GPT**
+# **PicoGPT: Character-level Language Model**
 <p align="justify">
   Pico-GPT is a miniature language model designed to generate text in the style of Shakespeare, built from scratch using PyTorch.
 </p>
