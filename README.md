@@ -14,7 +14,7 @@
 ## **Dataset**
 <p align="justify"> The model was trained on the tiny-Shakespeare dataset, which consists of a small portion of Shakespeare's works. 
   Despite the limited training data, the model can produce text that reflects the style and structure of Shakespearean English. 
-  [Source](https://github.com/karpathy/char-rnn/blob/master/data/tinyshakespeare/input.txt)
+  [Source](https://towardsdatascience.com/building-a-deep-learning-model-to-judge-if-you-are-at-risk-1c96f90d666c)
 </p>
 <br />
 
