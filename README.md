@@ -18,9 +18,9 @@ Despite the limited training data, the model can produce text that reflects the 
 
 ## **Evaluation Metric**
 <p align="center">
-  <img width="544" alt="Train & Test Loss" src="https://github.com/user-attachments/assets/095e6ae1-f60d-49aa-9c40-6e58736f6c92">
+  <img width="564" alt="Train & Test Loss" src="https://github.com/user-attachments/assets/3dfdaff0-8e5e-44dc-85f6-b9ee74b1f4b3">
 </p>
-<br />
+<br/>
 
 ## **Sample Generation**
 <p>
