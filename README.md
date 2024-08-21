@@ -3,22 +3,15 @@
   Pico-GPT is a miniature language model designed to generate text in the style of Shakespeare, built from scratch using PyTorch.
 </p>
 <div align="center">
-  
   N-Parameters | N-Layers | D-Model | N-Heads | D-Head | Batch-Size | Learning Rate
   :---: |:---: |:---: |:---: |:---: |:---: |:---:
   10M | 6 | 384 | 6 | 64 | 64 | 3 x 10<sup>-4</sup>
-  
 </div>
 <br />
 
 ## **Dataset**
-<p align="justify"> 
-  The model was trained on the tiny-Shakespeare dataset, which consists of a small portion of Shakespeare's works. 
-  Despite the limited training data, the model can produce text that reflects the style and structure of Shakespearean English.
-</p>
-
-[Source](https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt)
-
+The model was trained on the tiny-Shakespeare dataset, which consists of a small portion of Shakespeare's works. 
+Despite the limited training data, the model can produce text that reflects the style and structure of Shakespearean English. [Source](https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt)
 <br />
 
 ## **Evaluation Metric**
