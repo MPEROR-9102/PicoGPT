@@ -1,7 +1,6 @@
 # **Pico-GPT**
-
 <p align="justify">
-  Pico-GPT is a miniature, pretrained language model designed to generate text in the style of Shakespeare, **built from scratch using PyTorch.**
+  Pico-GPT is a miniature, pretrained language model designed to generate text in the style of Shakespeare, built from scratch using PyTorch.
 
   N-Parameters | N-Layers | D-Model | N-Heads | D-Head | Batch-Size | Learning Rate
   :---: |:---: |:---: |:---: |:---: |:---: |:---:
@@ -11,19 +10,18 @@
 <br />
 
 ## **Dataset**
-
 <p align="justify"> The model was trained on the tiny-Shakespeare dataset, which consists of a small portion of Shakespeare's works. 
   Despite the limited training data, the model can produce text that reflects the style and structure of Shakespearean English.
 </p>
+<br />
 
 ## **Evaluation Metric**
-
 <p align="center">
   <img width="544" alt="Train & Test Loss" src="https://github.com/user-attachments/assets/095e6ae1-f60d-49aa-9c40-6e58736f6c92">
 </p>
+<br />
 
 ## **Sample Generation**
-
 <p>
   FLORIZEL:<br />
   Angive men my sovereign, I will need,
