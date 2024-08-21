@@ -19,7 +19,7 @@
 
 ## **Sample Generation**
 
-<p align="justify">
+<p>
   FLORIZEL:
   Angive men my sovereign, I will need,
   for the King Henry's dearer in his wit?
@@ -46,8 +46,4 @@
   Lack may at in Hecrorous. Presu Elbow that else infection.
   O, were I know the people is drug,
   And therefore there in the father of thine ears and hate.
-  
-  First Murderer:
-  One with that time this deep here, like gorane.
-  The gods!
 </p>
