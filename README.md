@@ -19,7 +19,7 @@
 
 ## **Sample Generation**
 
-<p align="center">
+<p align="justify">
   FLORIZEL:
   Angive men my sovereign, I will need,
   for the King Henry's dearer in his wit?
