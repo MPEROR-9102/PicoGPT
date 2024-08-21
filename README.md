@@ -3,9 +3,11 @@
   Pico-GPT is a miniature language model designed to generate text in the style of Shakespeare, built from scratch using PyTorch.
 </p>
 <p align="center">
+  
   N-Parameters | N-Layers | D-Model | N-Heads | D-Head | Batch-Size | Learning Rate
   :---: |:---: |:---: |:---: |:---: |:---: |:---:
   10M | 6 | 384 | 6 | 64 | 64 | 3 x 10^-4
+  
 </p>
 <br />
 <br />
