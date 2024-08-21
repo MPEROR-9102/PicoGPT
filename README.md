@@ -3,9 +3,9 @@
 <p align="justify">
   Pico-GPT is a miniature language model designed to generate text in the style of Shakespeare.
 
-  n_params | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
- --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
- 10M | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+  #N-Parameters | #N-Layers | #D-Model | #N-Heads | #D-Head | #Batch-Size | #Learning Rate
+ --- | --- | --- |--- |--- |--- |---
+ 10M | 6 | 384 | 6 | 64 | 64 | 3 x 10^-4
 </p>
 
 
