@@ -6,7 +6,7 @@
   
   N-Parameters | N-Layers | D-Model | N-Heads | D-Head | Batch-Size | Learning Rate
   :---: |:---: |:---: |:---: |:---: |:---: |:---:
-  10M | 6 | 384 | 6 | 64 | 64 | 3 x 10^-4
+  10M | 6 | 384 | 6 | 64 | 64 | 3 x 10<sup>-4</sup>
   
 </div>
 <br />
