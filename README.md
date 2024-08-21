@@ -20,14 +20,14 @@
 ## **Sample Generation**
 
 <p>
-  FLORIZEL:\n
+  FLORIZEL:<br />
   Angive men my sovereign, I will need,
   for the King Henry's dearer in his wit?
   
-  CAPULET:
+  CAPULET:<br />
   Uiten his graves, he note-her come.
   
-  ALBOW:
+  ALBOW:<br />
   Ay, and so, he had his honeyous below his poweried
   To less labour. Swe will Clifford cannot be thrown.
   Which are fortune, now jays Cloud kill, but with a big
@@ -38,7 +38,7 @@
   His will meet leg! one that I delight upon
   Bearried my bightinen in Barnardine.
   
-  BUSHORD:
+  BUSHORD:<br />
   My dear, that prince the hovers that fair me;
   Thing but the nobles weeping on my feat,
   But I am joyful hated my sons and both made more
