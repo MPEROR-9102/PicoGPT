@@ -8,19 +8,15 @@
   :---: |:---: |:---: |:---: |:---: |:---: |:---:
   10M | 6 | 384 | 6 | 64 | 64 | 3 x 10<sup>-4</sup>
 </div>
-<br />
 
 ## **Dataset**
 The model was trained on the tiny-Shakespeare dataset, which consists of a small portion of Shakespeare's works. 
 Despite the limited training data, the model can produce text that reflects the style and structure of Shakespearean English. [Source](https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt)
 
-<br />
-
 ## **Evaluation Metric**
 <p align="center">
   <img width="564" alt="Train & Test Loss" src="https://github.com/user-attachments/assets/3dfdaff0-8e5e-44dc-85f6-b9ee74b1f4b3">
 </p>
-<br/>
 
 ## **Sample Generation**
 <p>
